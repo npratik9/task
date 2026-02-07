@@ -21,13 +21,13 @@ git clone git@github.com:npratik9/task.git
 cd backend 
 
 ### 3. Install Dpendencies
-pnpm install
+pnpm install or npm install(if pnpm doesn't work)
 
 ### 4. Configure environment file(.env)
-create a .env file in root directory of backend folder(i.e where index.js file is located) and copy the content of .env.example
+create a ".env" file in root directory of backend folder(i.e where pakage.json file is located) and copy the content of .env.example to it
 
 ### 5. Run the server
-pnpm run dev
+pnpm run dev or npm run dev
 
 ### 6. Navigate back to frontend
 cd frontend
