@@ -29,11 +29,19 @@ create a .env file in root directory of backend folder(i.e where index.js file i
 ### 5. Run the server
 pnpm run dev
 
-###6. Navigate back to frontend
+### 6. Navigate back to frontend
 cd frontend
 
-###7. Install dependencies
+### 7. Install dependencies
 npm install
 
-###8. Start react app
+### 8. Start react app
 npm run dev
+
+
+---
+## This project includes
+- JWT token for authentication
+- Dashboard only accessed by logged in users
+- Token stored in local storage
+- Logout after token expiration 
