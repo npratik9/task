@@ -15,25 +15,25 @@ This repository is divided into two main sections:
 To get this project running on your local machine, follow these steps:
 
 ### 1. Clone the Repository
--git clone git@github.com:npratik9/task.git
+git clone git@github.com:npratik9/task.git
 
-###2. Navigate to backend
--cd backend 
+### 2. Navigate to backend
+cd backend 
 
-###3. Install Dpendencies
--pnpm install
+### 3. Install Dpendencies
+pnpm install
 
-###4. Configure environment file(.env)
--create a .env file in root directory of backend folder(i.e where index.js file is located) and copy the content of .env.example
+### 4. Configure environment file(.env)
+create a .env file in root directory of backend folder(i.e where index.js file is located) and copy the content of .env.example
 
-###5. Run the server
--pnpm run dev
+### 5. Run the server
+pnpm run dev
 
 ###6. Navigate back to frontend
--cd frontend
+cd frontend
 
 ###7. Install dependencies
--npm install
+npm install
 
 ###8. Start react app
--npm run dev
+npm run dev
