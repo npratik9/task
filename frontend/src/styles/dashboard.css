@@ -1,0 +1,30 @@
+.page-wrapper {
+    min-height: 100vh;
+    background-color: rgb(235, 188, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px 8px;
+    width: 450px;
+    text-align: center;
+    
+    
+    
+}
+
+h1{
+    font-family: sans-serif;
+    color:rgb(131, 114, 19);
+}
+
+
+button:hover{
+    cursor: pointer;
+}
+
